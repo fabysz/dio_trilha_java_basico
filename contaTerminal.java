@@ -1,5 +1,11 @@
-public class contaTerminal {
-    public static void main(String[] args) {
-        System.out.println( "Hello World!123");
-    }
+
+
+public class ContaTerminal {
+
+    int numero;
+    String nomeCliente;
+    double saldo = 25000;
+    String agencia;
+
+    
 }
